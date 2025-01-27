@@ -1,0 +1,16 @@
+#contenedor {
+    margin: 0 auto;
+    height: 800px;
+    width: 900px;
+    padding: 30px;
+    border: 10px solid green;
+    display: flex;
+    justify-content: space-around;
+    align-content: space-around;
+    flex-wrap: wrap;
+}
+
+.imagen p {
+    border: 1px solid red;
+    text-align: center;
+}
